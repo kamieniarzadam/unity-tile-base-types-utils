@@ -23,7 +23,7 @@ public abstract class Neighboring
         }
     }
 
-    public ConverseRelation converse;
+    public static ConverseRelation converse;
 
     public int GetConverseRelation(int relation)
     {
